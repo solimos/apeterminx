@@ -1,0 +1,35 @@
+html {
+  font-family: courier, monospace;
+  color: lime;
+  background: black;
+  margin: 1em;
+  font-size: 10px;
+}
+
+.monkey {
+  display: inline-block;
+  white-space: pre;
+  color: chocolate;
+  margin: auto;
+}
+
+.skin {
+  color: wheat;
+}
+
+.banana {
+  color: yellow;
+}
+
+.text {
+  color: lime;
+}
+
+.cpu {
+  color: silver;
+}
+
+.wrapper {
+  display: table;
+  margin: 10em auto 0;
+}
